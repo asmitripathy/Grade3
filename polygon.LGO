@@ -1,0 +1,12 @@
+to polygon
+lt 90
+repeat 3[fd 100 rt 360/3]
+repeat 4[fd 100 rt 360/4]
+repeat 5[fd 100 rt 360/5]
+repeat 6[fd 100 rt 360/6]
+repeat 7[fd 100 rt 360/7]
+repeat 8[fd 100 rt 360/8]
+repeat 9[fd 100 rt 360/9]
+repeat 10[fd 100 rt 360/10]
+end
+

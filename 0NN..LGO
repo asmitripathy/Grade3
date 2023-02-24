@@ -1,0 +1,16 @@
+to pentagon
+lt 90
+repeat 5[fd 100 rt 360/5]
+end
+
+to square
+fd 100
+rt 90
+fd 100
+rt 90
+fd 100
+rt 90
+fd 100
+rt 90
+end
+

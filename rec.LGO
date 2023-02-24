@@ -1,0 +1,14 @@
+to ci
+circle 100
+end
+
+to rec
+fd 50
+rt 90
+fd 100
+rt 90
+fd 50
+rt 90
+fd 100
+end
+

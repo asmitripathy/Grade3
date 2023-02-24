@@ -1,0 +1,4 @@
+to pl
+repeat 4[fd 100 rt 360/4]
+end
+
